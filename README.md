@@ -3,7 +3,10 @@
 
 - 📫 How to reach me **Linkedin is the best way!**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1bgbPEGbmL4_9FiG2DKjWYUJbP3UkDob4/view?usp=drive_link](https://drive.google.com/file/d/1bgbPEGbmL4_9FiG2DKjWYUJbP3UkDob4/view?usp=drive_link)
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1bgbPEGbmL4_9FiG2DKjWYUJbP3UkDob4/view?usp=drive_link" target="_blank">
+  <img src="https://img.shields.io/badge/My%20CV-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="CV"/>
+</a>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
