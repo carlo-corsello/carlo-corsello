@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Carlo</h1>
 <h3 align="center">Data Analyst in training — I’ve got the knowledge, now looking for some real-world data to wrestle with.</h3>
 
-- 📫 How to reach me **Linkedin is the best way!**
+- 📫 How to reach me?  **Linkedin is the best way!**
 
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1bgbPEGbmL4_9FiG2DKjWYUJbP3UkDob4/view?usp=drive_link" target="_blank">
   <img src="https://img.shields.io/badge/My%20CV-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="CV"/>
