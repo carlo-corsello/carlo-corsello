@@ -4,7 +4,7 @@
 - 📫 How to reach me?  **Linkedin is the best way!**
 
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1bgbPEGbmL4_9FiG2DKjWYUJbP3UkDob4/view?usp=drive_link" target="_blank">
-  <img src="https://img.shields.io/badge/My%20CV-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="CV"/>
+  <img src="[https://img.shields.io/badge/My%20CV-4285F4?style=for-the-badge&logo=google-drive&logoColor=white](https://drive.google.com/file/d/1qlRYajGYZPrYVCytTdR7x85HAaS-Fq9-/view?usp=sharing)" alt="CV"/>
 </a>
 
 
